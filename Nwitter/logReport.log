@@ -1,0 +1,86 @@
+2021-04-02 05:07:08.478 [main] INFO  Main - System: user Started the app
+2021-04-02 05:07:08.487 [main] INFO  Login - System: user went to Login
+2021-04-02 05:07:16.588 [main] INFO  Text - User Inserted : razoo
+2021-04-02 05:07:16.588 [main] INFO  getinfoLog - System: user went to LogInfo
+2021-04-02 05:07:18.405 [main] INFO  Text - User Inserted : Zzzzzz
+2021-04-02 05:07:18.434 [main] INFO  getinfoLog - System: User logged in
+2021-04-02 05:07:18.455 [main] INFO  Feed - System: user went to Feed
+2021-04-02 05:07:18.458 [main] INFO  twittePrinter - System: user went to twittePrinter
+2021-04-02 05:07:18.459 [main] INFO  twittePrinter - Twitte 1000026 Printed
+2021-04-02 05:07:18.467 [main] INFO  twittePrinter - System: user went to twittePrinter
+2021-04-02 05:07:18.467 [main] INFO  twittePrinter - Twitte 1000085 Printed
+2021-04-02 05:07:18.470 [main] INFO  twittePrinter - System: user went to twittePrinter
+2021-04-02 05:07:18.470 [main] INFO  twittePrinter - Twitte 1000096 Printed
+2021-04-02 05:07:18.472 [main] INFO  twittePrinter - System: user went to twittePrinter
+2021-04-02 05:07:18.472 [main] INFO  twittePrinter - Twitte 1000088 Printed
+2021-04-02 05:07:18.474 [main] INFO  twittePrinter - System: user went to twittePrinter
+2021-04-02 05:07:18.474 [main] INFO  twittePrinter - Twitte 1000087 Printed
+2021-04-02 05:07:18.476 [main] INFO  twittePrinter - System: user went to twittePrinter
+2021-04-02 05:07:18.476 [main] INFO  twittePrinter - Twitte 1000086 Printed
+2021-04-02 05:07:18.478 [main] INFO  twittePrinter - System: user went to twittePrinter
+2021-04-02 05:07:18.479 [main] INFO  twittePrinter - Twitte 1000084 Printed
+2021-04-02 05:07:18.481 [main] INFO  twittePrinter - System: user went to twittePrinter
+2021-04-02 05:07:18.481 [main] INFO  twittePrinter - Twitte 1000083 Printed
+2021-04-02 05:07:18.483 [main] INFO  twittePrinter - System: user went to twittePrinter
+2021-04-02 05:07:18.483 [main] INFO  twittePrinter - Twitte 1000079 Printed
+2021-04-02 05:07:18.485 [main] INFO  twittePrinter - System: user went to twittePrinter
+2021-04-02 05:07:18.485 [main] INFO  twittePrinter - Twitte 1000078 Printed
+2021-04-02 05:07:18.487 [main] INFO  twittePrinter - System: user went to twittePrinter
+2021-04-02 05:07:18.487 [main] INFO  twittePrinter - Twitte 1000029 Printed
+2021-04-02 05:07:18.489 [main] INFO  twittePrinter - System: user went to twittePrinter
+2021-04-02 05:07:18.489 [main] INFO  twittePrinter - Twitte 1000027 Printed
+2021-04-02 05:07:18.491 [main] INFO  twittePrinter - System: user went to twittePrinter
+2021-04-02 05:07:18.491 [main] INFO  twittePrinter - Twitte 1000025 Printed
+2021-04-02 05:07:18.493 [main] INFO  twittePrinter - System: user went to twittePrinter
+2021-04-02 05:07:18.493 [main] INFO  twittePrinter - Twitte 1000024 Printed
+2021-04-02 05:07:18.495 [main] INFO  twittePrinter - System: user went to twittePrinter
+2021-04-02 05:07:18.495 [main] INFO  twittePrinter - Twitte 1000023 Printed
+2021-04-02 05:07:18.497 [main] INFO  twittePrinter - System: user went to twittePrinter
+2021-04-02 05:07:18.497 [main] INFO  twittePrinter - Twitte 1000022 Printed
+2021-04-02 05:07:20.648 [main] INFO  Text - User Inserted : e
+2021-04-02 05:07:20.659 [main] INFO  Setting - System: user went to Setting
+2021-04-02 05:07:25.378 [main] INFO  Text - User Inserted : c
+2021-04-02 05:07:25.381 [main] INFO  Setting - System: Account Enabled
+2021-04-02 05:07:26.252 [main] INFO  Text - User Inserted : c
+2021-04-02 05:07:26.260 [main] INFO  Setting - System: user went to Setting
+2021-04-02 05:07:28.255 [main] INFO  Text - User Inserted : h
+2021-04-02 05:07:28.256 [main] INFO  Home - System: user went to Home
+2021-04-02 05:07:31.125 [main] INFO  Text - User Inserted : g
+2021-04-02 05:07:31.127 [main] INFO  Feed - System: user went to Feed
+2021-04-02 05:07:31.128 [main] INFO  twittePrinter - System: user went to twittePrinter
+2021-04-02 05:07:31.128 [main] INFO  twittePrinter - Twitte 1000026 Printed
+2021-04-02 05:07:31.130 [main] INFO  twittePrinter - System: user went to twittePrinter
+2021-04-02 05:07:31.130 [main] INFO  twittePrinter - Twitte 1000085 Printed
+2021-04-02 05:07:31.131 [main] INFO  twittePrinter - System: user went to twittePrinter
+2021-04-02 05:07:31.131 [main] INFO  twittePrinter - Twitte 1000096 Printed
+2021-04-02 05:07:31.133 [main] INFO  twittePrinter - System: user went to twittePrinter
+2021-04-02 05:07:31.133 [main] INFO  twittePrinter - Twitte 1000095 Printed
+2021-04-02 05:07:31.134 [main] INFO  twittePrinter - System: user went to twittePrinter
+2021-04-02 05:07:31.134 [main] INFO  twittePrinter - Twitte 1000094 Printed
+2021-04-02 05:07:31.135 [main] INFO  twittePrinter - System: user went to twittePrinter
+2021-04-02 05:07:31.135 [main] INFO  twittePrinter - Twitte 1000088 Printed
+2021-04-02 05:07:31.136 [main] INFO  twittePrinter - System: user went to twittePrinter
+2021-04-02 05:07:31.136 [main] INFO  twittePrinter - Twitte 1000087 Printed
+2021-04-02 05:07:31.137 [main] INFO  twittePrinter - System: user went to twittePrinter
+2021-04-02 05:07:31.138 [main] INFO  twittePrinter - Twitte 1000086 Printed
+2021-04-02 05:07:31.139 [main] INFO  twittePrinter - System: user went to twittePrinter
+2021-04-02 05:07:31.139 [main] INFO  twittePrinter - Twitte 1000084 Printed
+2021-04-02 05:07:31.140 [main] INFO  twittePrinter - System: user went to twittePrinter
+2021-04-02 05:07:31.140 [main] INFO  twittePrinter - Twitte 1000083 Printed
+2021-04-02 05:07:31.142 [main] INFO  twittePrinter - System: user went to twittePrinter
+2021-04-02 05:07:31.142 [main] INFO  twittePrinter - Twitte 1000079 Printed
+2021-04-02 05:07:31.143 [main] INFO  twittePrinter - System: user went to twittePrinter
+2021-04-02 05:07:31.143 [main] INFO  twittePrinter - Twitte 1000078 Printed
+2021-04-02 05:07:31.144 [main] INFO  twittePrinter - System: user went to twittePrinter
+2021-04-02 05:07:31.144 [main] INFO  twittePrinter - Twitte 1000029 Printed
+2021-04-02 05:07:31.145 [main] INFO  twittePrinter - System: user went to twittePrinter
+2021-04-02 05:07:31.145 [main] INFO  twittePrinter - Twitte 1000027 Printed
+2021-04-02 05:07:31.147 [main] INFO  twittePrinter - System: user went to twittePrinter
+2021-04-02 05:07:31.147 [main] INFO  twittePrinter - Twitte 1000025 Printed
+2021-04-02 05:07:31.148 [main] INFO  twittePrinter - System: user went to twittePrinter
+2021-04-02 05:07:31.148 [main] INFO  twittePrinter - Twitte 1000024 Printed
+2021-04-02 05:07:31.150 [main] INFO  twittePrinter - System: user went to twittePrinter
+2021-04-02 05:07:31.150 [main] INFO  twittePrinter - Twitte 1000023 Printed
+2021-04-02 05:07:31.151 [main] INFO  twittePrinter - System: user went to twittePrinter
+2021-04-02 05:07:31.151 [main] INFO  twittePrinter - Twitte 1000022 Printed
+2021-04-02 05:07:36.584 [main] INFO  Text - User Inserted : g

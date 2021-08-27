@@ -1,0 +1,30 @@
+[
+  {
+    "serial": 1000023,
+    "reporter": "nim",
+    "twitteText": "test2",
+    "sender": "samkel",
+    "Reporttext": "hamfullllll"
+  },
+  {
+    "serial": 1000026,
+    "reporter": "are",
+    "twitteText": "test5",
+    "sender": "samkel",
+    "Reporttext": "goh!"
+  },
+  {
+    "serial": 1000029,
+    "reporter": "samkel",
+    "twitteText": "vaghti atse mikonim ...",
+    "sender": "kamin",
+    "Reporttext": "shit"
+  },
+  {
+    "serial": 1000026,
+    "reporter": "are",
+    "twitteText": "test5",
+    "sender": "samkel",
+    "Reporttext": "BUGS bunny!"
+  }
+]
